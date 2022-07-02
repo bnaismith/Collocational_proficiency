@@ -1,0 +1,287 @@
+response_id,text_id,rater_id,CEFR,TR,CC,LR,GRA,HOL,soph,soph_type,accuracy,comment,duration,text_order,gender,age,education,TESOL_cert,ELT_exp_yrs,IELTS_status,current,IELTS_exp_yrs,rater_L1,rater_English,student_L1,L1_range,prof_range,TR_fair,CC_fair,LR_fair,GRA_fair,HOL_fair
+1,Text1,R1,B1,4.3,4.3,4.3,3.7,3.4,low,NA,low,The candidate uses only basic vocabulary repetitively. Errors are frequent and cause strain for the reader. ,q3,C1_B1_B2,Female,30-39,BA,diploma,6-10,examiner,former,6-10,Spanish,L2,Arabic,wide,wide,4.9,4.8,5.3,4.8,4.8
+55,Text1,R19,B1,5.7,5.3,6.3,5.7,5.4,low,NA,low,"There was some good vocab such as entrance.  There was some good vocabulary throughout the writing but other skills let the candidate down.
+I think it would be easy for an examiner to give a higher grade based on vocabulary rather than the rest of the writing.",q1,B2_B1_C1,Male,50-59,MA,diploma,>20,examiner,former,11-20,English,L1,Arabic,wide,wide,4.9,4.8,5.3,4.8,4.8
+31,Text1,R11,B1,5.3,4.7,5.3,5.0,4.5,low,NA,low,"'20 ages' for years
+inaccurate use of prepositions
+repetition of phrases and repetition of simple vocab - 'good' 'money' 'work'
+but spelling accurate",q4,B1_C1_B2,Female,60-69,MA,diploma,>20,examiner,former,11-20,English,L1,Arabic,wide,wide,4.9,4.8,5.3,4.8,4.8
+118,Text1,R40,B1,5.3,5.3,5.3,5.3,5.0,low,NA,low,"There is a limited range of vocabulary and several words that have been repeated from the rubric, such as 'children' 'parents' 'buy' 'money'. Although there are not any mistakes in word formation, the limited range keeps it at a 5.",q2,C1_B2_B1,Male,30-39,MA,diploma,11-20,examiner,former,11-20,English,L1,various,narrow,wide,4.9,4.8,5.3,4.8,4.8
+58,Text10,R20,B1,5.3,4.0,5.3,5.0,4.8,high,non_col,high,"So ... here we see a variety of words used but not effectively and in some cases not correctly. Sometimes, it appears that words are parachuted in just for effect as they are clearly not used appropriately. This person likely thinks they are really 'good' at English ... but in reality they are not. Perhaps, a fossilized older person writing this piece.",q3,B2_C1_B1,Male,50-59,MA,certificate,>20,examiner,former,11-20,English,L1,Arabic,narrow,narrow,5.1,5.0,5.4,5.0,5.0
+34,Text10,R12,B1,6.0,5.0,6.3,4.7,5.8,high,non_col,high,"The candidate used some higher-level lexis somewhat effectively, but since it was not that fluent of usage, she could not be awarded very high marks. Nonetheless, lexis was the candidate's strongest area.",q1,B1_C1_B2,Male,40-49,MA,degree,11-20,examiner,former,3-5,English,L1,Arabic,narrow,narrow,5.1,5.0,5.4,5.0,5.0
+124,Text10,R42,B1,5.0,5.0,6.7,4.7,5.0,high,non_col,high,"Interesting text. Some quite unusual lexis eg 'posit', 'resilient', 'procure'. In a way this sticks out as not being in keeping with the standard of the rest of the text. ",q1,B2_B1_C1,Male,50-59,MA,diploma,>20,examiner,former,3-5,English,L1,Chinese,wide,wide,5.1,5.0,5.4,5.0,5.0
+40,Text10,R14,B1,5.3,5.7,6.0,5.3,5.5,high,non_col,high,"'- Uses an adequate range of vocabulary for the task: must be grown up, working to have money, start work
+• attempts to use less common vocabulary but with some inaccuracy: fantasize,  resilient, tabloids, juveniles
+• makes some errors in spelling and/or word formation, but they do not impede communication: procuring things, our country parents",q2,C1_B1_B2,Male,50-59,PhD,diploma,>20,examiner trainer,current,11-20,English,L1,Arabic,wide,wide,5.1,5.0,5.4,5.0,5.0
+83,Text11,R28,B2,7.3,7.0,7.3,7.3,7.1,low,NA,low,"well-trained to
+better prepared to deal with 
+on the contrary 
+(there are more but i'm starting to get fatigued going back and forth)",q1,B1_B2_C1,Male,30-39,MA,diploma,11-20,examiner,former,1-2,English,L1,various,wide,wide,6.7,6.5,7.1,6.5,6.5
+119,Text11,R40,B2,5.7,6.3,7.0,6.7,6.7,low,NA,low,"The TT uses a range of relevant language which shows some flexibility; however, there is a large amount of lexis that is repeated from the rubric. They have demonstrated an awareness of collocation and less common lexical items, such as 'psychological values' 'well-trained to face adulthood' 'worked very hard just to put food in the table' 'their eyes are blinded by the power of money'.",q2,C1_B2_B1,Male,30-39,MA,diploma,11-20,examiner,former,11-20,English,L1,various,narrow,wide,6.7,6.5,7.1,6.5,6.5
+14,Text11,R5,B2,7.3,6.0,6.3,6.0,5.4,low,NA,low,Attempts to use less common vocabulary but this generally leads to error and causes some difficulty to reader [psychological values | in the condition | disadvantage of a family love life]. Other less common items are used effectively [money doesn't come easily | are never home | put food in the table | the art of ].Word formation errors occur but do not impede communication. ,q3,C1_B1_B2,Female,60-69,MA,diploma,>20,senior examiner and trainer,current,>20,English,L1,Chinese,wide,wide,6.7,6.5,7.1,6.5,6.5
+71,Text11,R24,B2,7.3,7.3,7.3,6.7,7.1,low,NA,low,"used to have
+in the table
+family love life
+in everytime vs. all the time
+time to discovered
+the sense  of
+
+most was grammar",q3,C1_B2_B1,Female,30-39,MA,certificate,6-10,examiner,current,3-5,English,L1,various,wide,wide,6.7,6.5,7.1,6.5,6.5
+116,Text12,R39,B2,7.3,6.0,6.7,6.0,5.8,low,NA,high,"There is a decent range of more complex lexis, such as:
+to be equipped to
+put food on the table
+the power of money
+the art of making money
+decide for themselves
+
+but these included some inaccuracies of use at tims.
+
+There is also repetition of certain basic lexis, such as 'brought up' 'work hard' and synonyms could have been used here.  
+",q4,C1_B1_B2,Female,50-59,MA,diploma,>20,examiner,former,6-10,English,L1,various,wide,narrow,6.3,6.1,6.7,6.1,6.1
+8,Text12,R3,B2,5.3,5.7,6.3,6.3,5.6,low,NA,high,"Some good original lexis but relies heavily on the input material: spoiled, ethical values, hard work are all reasonably good.",q1,B2_C1_B1,unknown,60-69,MA,certificate,>20,examiner trainer,current,11-20,English,L1,Spanish,narrow,wide,6.3,6.1,6.7,6.1,6.1
+41,Text12,R14,B2,7.3,7.3,7.3,7.3,7.0,low,NA,high,"'- uses a sufficient range of vocabulary to allow some flexibility and precision; put food on the table, been spoiled, express love
+- uses less common lexical items with some awareness of style and collocation: equipped to face adulthood, the art of making money, the value of hard work
+- may produce occasional errors in word choice, spelling and/or word formation: raised (taught) in certain ethical values, time to discovered (discover), the impact to (on) a child",q2,C1_B1_B2,Male,50-59,PhD,diploma,>20,examiner trainer,current,11-20,English,L1,Arabic,wide,wide,6.3,6.1,6.7,6.1,6.1
+89,Text12,R30,B2,6.3,5.3,6.7,5.3,5.5,low,NA,high,"some very good collocations & idiomatic language e.g. the source of happiness, blinded by power, grow up and think that money is everything, spoiled, the art of money making, the sense of respect for.
+The lexical resource seemed to be the strongest part of this writing.",q2,B2_C1_B1,Male,30-39,MA,diploma,11-20,examiner,former,1-2,English,L1,Punjabi,narrow,narrow,6.3,6.1,6.7,6.1,6.1
+107,Text13,R36,B2,6.7,6.3,7.0,6.7,6.5,mid,col,low,"not maintaining register; some mixed formal and informal language use (some awareness of style)
+occasional errors in word choice: inaccuracies in use of prepositions and linking words and expression
+uses some less common items with awareness of collocation 
+overall some flexibility and precision of vocab items",q2,B2_C1_B1,Female,40-49,MA,diploma,11-20,examiner,former,3-5,English,L1,Arabic,narrow,narrow,6.5,6.3,7.0,6.3,6.4
+53,Text13,R18,B2,7.3,6.7,6.7,6.7,6.8,mid,col,low,attempts to use less common vocabulary but sometimes inaccurately.,q1,B2_B1_C1,Male,50-59,MA,degree,>20,examiner,former,3-5,English,L1,Arabic,narrow,wide,6.5,6.3,7.0,6.3,6.4
+65,Text13,R22,B2,4.7,4.3,6.3,5.0,4.8,mid,col,low,"There weren't huge issues with the word formations and it didn't cause strain on the reader. There was some repetition though the use of the lexical items were generally appropriate. 
+As there were no major errors, it did not stand to receive a 5. However, the word choice were not 'uncommon' to the extent of meriting flexibility and therefore does not constitute a 7. ",q2,C1_B2_B1,unknown,30-39,MA,diploma,11-20,examiner trainer,former,3-5,English,L1,Arabic,wide,narrow,6.5,6.3,7.0,6.3,6.4
+11,Text13,R4,B2,7.3,7.3,7.0,7.0,6.5,mid,col,low,"sufficient range to allow some flexibility - discipline/ spoiled
+uses less common items - virtue of hard work/ put food on the table/ express love/ source of happiness/ face adulthood
+occasional errors in word choice - in the condition where money isn't easily obtained/ eyes are blinded/ family love life",q2,B1_B2_C1,Male,50-59,MA,diploma,>20,senior examiner and trainer,current,11-20,English,L1,Korean,wide,wide,6.5,6.3,7.0,6.3,6.4
+68,Text14,R23,B2,5.7,6.3,7.3,6.3,6.5,mid,col,high,"Repetition of rubric limits score to a 7.  ""Will families"" ?",q2,B2_C1_B1,Male,50-59,MA,diploma,>20,examiner,former,11-20,English,L1,various,wide,wide,6.7,6.5,7.2,6.5,6.6
+104,Text14,R35,B2,8.3,7.3,8.7,6.7,7.4,mid,col,high,"Sustained used of idiomatic expressions and collocations, wide range of lexical items
+
+examples: readily obtained, equipped to face adulthood, put food on the table, see the reality and embrace it,...",q4,C1_B1_B2,Female,40-49,MA,certificate,11-20,examiner,former,11-20,English,L1,Arabic,narrow,narrow,6.7,6.5,7.2,6.5,6.6
+17,Text14,R6,B2,6.3,6.3,6.3,6.3,6.0,mid,col,high,Many attempts to use sophisticated lexical chunks but overall lacks the precision required to be wholly successful. The writer appears to be a risk-taker. ,q2,B1_C1_B2,Female,40-49,MA,diploma,>20,examiner trainer,current,11-20,English,L1,various,wide,wide,6.7,6.5,7.2,6.5,6.6
+44,Text14,R15,B2,7.3,6.3,6.3,6.7,6.3,mid,col,high,"Words like 'endorsed' are used with some awareness of style but out of context.  'Oppose' has a word form issue, but it doesn't impede communication.   The phrases 'in a certain ethical values' and 'spoiled in every time'  demonstrate both adequate vocabulary and a degree of inaccuracy.  The listing in the 'such as' fragment also seems like they are trying to include a range of vocabulary to earn a higher score without explaining why they attributed these words to the situation.
+
+",q4,B2_B1_C1,Male,40-49,MA,degree,>20,examiner,former,11-20,English,L1,various,wide,wide,6.7,6.5,7.2,6.5,6.6
+92,Text15,R31,B2,7.3,6.7,7.3,7.3,6.5,mid,non_col,low,"Some good use of collocation in places, and some inaccurate. 
+Some slips in e.g. dependent prepositions. 
+Not all attempts to use less common vocabulary are unsuccessful. 
+Flexibility and precision are there despite some inaccuracy. 
+",q2,B2_C1_B1,Female,60-69,MA,diploma,>20,examiner,former,6-10,English,L1,various,wide,wide,6.7,6.5,7.1,6.5,6.5
+2,Text15,R1,B2,5.3,6.3,6.7,6.7,6.3,mid,non_col,low,"The candidate takes risks and attempts to use more sophisticated vocabulary. However, the the candidate's inaccuracy prevents them from getting a band 7.",q3,C1_B1_B2,Female,30-39,BA,diploma,6-10,examiner,former,6-10,Spanish,L2,Arabic,wide,wide,6.7,6.5,7.1,6.5,6.5
+125,Text15,R42,B2,7.3,6.3,6.7,6.3,6.2,mid,non_col,low,"I can't remember the exact chunks etc. but generally some good attempts at more unusual language, but a number of inaccuracies.",q1,B2_B1_C1,Male,50-59,MA,diploma,>20,examiner,former,3-5,English,L1,Chinese,wide,wide,6.7,6.5,7.1,6.5,6.5
+77,Text15,R26,B2,7.7,7.7,8.3,7.3,8.1,mid,non_col,low,"Very specific and high level usage: ""blinded by the power of money"", obstacle, ""the art of money making"", embrace, ""set their mind"", possess... not all accurate, so this is why it's not a band 9.  ",q1,B1_B2_C1,Male,40-49,MA,certificate,11-20,examiner,former,3-5,English,L1,Arabic,narrow,wide,6.7,6.5,7.1,6.5,6.5
+50,Text16,R17,B2,6.3,5.3,6.7,5.7,5.7,mid,non_col,high,"This candidate showed some less frequent items (eg. endure, possess, attain) and some awareness of collocations (eg. hard work, face adulthood, blinded by the power of money, embrace reality) but the level of formality was variable with some inappropriacies  like in ""perceived their parents worked"", ""endure in the condition"". The global effect is a lack of comand of complex language. 
+ ",q3,C1_B2_B1,Female,50-59,MA,certificate,>20,examiner,former,>20,Portuguese,L2,Portuguese,narrow,narrow,7.1,6.9,7.6,7.0,7.0
+86,Text16,R29,B2,7.3,6.3,7.7,6.0,6.6,mid,non_col,high,"General Features
+* a wide range of vocabulary, used quite fluently, flexibly and accurately
+* a good awareness of style and collocation
+
+Specific Lexical Items
+Positive points - the value of hard work, put food on the table, blinded by the power of money, (a) sense of respect for sthg
+Negative points - raised in a certain ethical values, endure in the condition, Oppose to it..., the impact to a child",q4,C1_B2_B1,Female,50-59,BA,diploma,>20,examiner,former,1-2,English,L1,Spanish,narrow,wide,7.1,6.9,7.6,7.0,7.0
+137,Text16,R46,B2,6.3,6.3,7.7,6.3,6.4,mid,non_col,high,"Just like with the first two samples, LR is the strongest feature here. ""Put food on the table; acquire the art of money making; attain, endure..."" are just some examples of less common and highly precise vocab items the candidate uses. 
+There is, however, some overuse of the input material from the prompt: ""families that do not have large amount(s) of money"" is repeated three times, indicating a certain lack of flexibility, which precludes band 8 rating.",q3,B1_C1_B2,Male,40-49,MA,certificate,11-20,examiner trainer,former,11-20,English; Russian,L1,various,wide,narrow,7.1,6.9,7.6,7.0,7.0
+5,Text16,R2,B2,7.3,6.7,7.7,7.3,7.8,mid,non_col,high,"There's a good range, including less common items: ""equipped to face adulthood"" ""the value of hard work"" ""put food on the table. A few more errors and stylistic oddities than I think you'd see in a band 8 script: ""endure in the condition where money doesn't come easily"" ""commonly wealthy"" ""spoiled in every time"".",q3,B1_C1_B2,Male,30-39,MA,diploma,11-20,examiner,former,3-5,English,L1,Italian,narrow,narrow,7.1,6.9,7.6,7.0,7.0
+56,Text17,R19,B2,7.3,6.3,8.3,7.3,7.0,high,col,low,There was a lot of great vocabulary.  Knack was a word that stood out.  The level of vocab and collocation was very good with some idioms and phrasal verbs.  There were some native speaker terms.,q1,B2_B1_C1,Male,50-59,MA,diploma,>20,examiner,former,11-20,English,L1,Arabic,wide,wide,6.4,6.2,6.9,6.2,6.3
+131,Text17,R44,B2,5.3,5.7,5.7,5.0,5.1,high,col,low,"Despite the fact that the paragraphing of this essay was imbalanced, there was a good lexical range throughout the essay. In some cases, however, the choice of topic vocabulary was inappropriate (e.g. allure, dazzled). Subjectively, there appears to be more confidence in this prose than in the previous two, which were clunky.",q3,B1_C1_B2,unknown,40-49,BA,certificate,11-20,examiner,former,1>,Portuguese,L2,English,wide,wide,6.4,6.2,6.9,6.2,6.3
+140,Text17,R47,B2,6.0,5.7,7.0,6.3,6.1,high,col,low,Some good lexical items but not always used consistently.,q4,C1_B1_B2,Female,70+,BA,diploma,>20,examiner,former,6-10,English,L1,Hebrew,wide,wide,6.4,6.2,6.9,6.2,6.3
+143,Text17,R48,B2,5.3,5.0,6.0,5.3,5.8,high,col,low,"With this test taker, there was quite a lot of repetition of lexical items such as money. They did well to use some less common phrasing with some accuracy but to score higher, they would have needed to expand their language more.",q2,C1_B2_B1,Female,30-39,MA,certificate,11-20,examiner,current,3-5,English,L1,Arabic,wide,narrow,6.4,6.2,6.9,6.2,6.3
+29,Text17,R10,B2,6.3,6.3,7.3,6.7,6.4,high,col,low,There was some flexibility and precision with less common items. There was also some awareness of collocation. The tone was inconsistent though due to lexical choices. I gave it a 7 but I was between that and 6+. ,q4,B1_B2_C1,Male,30-39,MA,diploma,11-20,examiner,former,3-5,English,L1,Japanese,wide,wide,6.4,6.2,6.9,6.2,6.3
+47,Text17,R16,B2,6.3,5.3,6.3,5.3,5.5,high,col,low,"attempts to use less common vocabulary but with some inaccuracy: commend the idea, psychological values, path to fulfillment...",q3,B2_C1_B1,Female,40-49,MA,certificate,6-10,examiner,former,6-10,English,L1,various,narrow,wide,6.4,6.2,6.9,6.2,6.3
+128,Text18,R43,B2,5.3,5.3,5.3,5.3,5.0,high,col,high,"there was a lot of repetition, low range, inflexible use",q1,B2_B1_C1,Male,30-39,PhD,diploma,11-20,examiner,former,1-2,Polish,L2,various,wide,narrow,6.4,6.2,6.9,6.2,6.2
+20,Text18,R7,B2,6.7,6.3,7.3,6.3,6.8,high,col,high,The use of collocations and less commonn expressions / phrases.,q4,B2_B1_C1,Male,40-49,BA,diploma,11-20,examiner,former,6-10,Spanish,L2,Spanish,narrow,wide,6.4,6.2,6.9,6.2,6.2
+62,Text18,R21,B2,6.0,6.0,7.7,6.7,6.5,high,col,high,"There were some good collocations/chunks of language, e.g. dazzled by the allure of; the path to fulfilment is..., unimaginable wealth
+
+My first thought was that you had put them into this student text as part of your research project as they seem at a level above the rest of the candidate's English, including the choice and control of other lexical items, e.g. As oppose to that",q2,B2_C1_B1,Male,40-49,MA,diploma,>20,examiner,former,3-5,English,L1,various,wide,wide,6.4,6.2,6.9,6.2,6.2
+95,Text18,R32,B2,6.3,6.3,7.3,5.3,6.0,high,col,high,"Some very good LR but there are some problems with the GRAM. The last paragraph could have been broken into 2, way too big but generally speaking it was OK.",q4,B2_C1_B1,Female,50-59,MA,diploma,>20,examiner trainer,current,>20,Portuguese,L2,Portuguese,narrow,wide,6.4,6.2,6.9,6.2,6.2
+23,Text19,R8,B2,8.7,8.0,7.7,6.7,7.1,high,non_col,low,"Band 7: The candidate uses a sufficient range of vocabulary to allow some flexibility and precision. There are uses of less common lexical items with some awareness of style and collocation. There are some occasional errors in word choice. 
+
+It did not meet the requirements of Band 8 because the candidate was not able to use a wide range of vocabulary fluently and flexibly to convey precise meanings.
+",q3,B2_C1_B1,Male,50-59,MA,diploma,>20,examiner,current,11-20,Pashtu,L2,Arabic,narrow,narrow,6.9,6.7,7.4,6.7,6.8
+80,Text19,R27,B2,7.7,7.7,8.0,7.0,7.6,high,non_col,low,"""uses a wide range of vocabulary fluently and flexibly to
+convey precise meanings “blinded by the power of money”
+• skilfully uses uncommon lexical items  in every paragraph e.g. “scrutinized” , “paramount” , ""perseverence""
+•  spelling generally very good - produces rare errors in and very good word formation on the whole
+Generally candidate weaker with grammar . The lexical range is much stronger (8) even though there were some errors with collocations e..g raised in” instead of “raised with”, but this does not adversely affect understanding. The candidate is a “risk – taker”, so should be given some credit.
+",q3,B2_C1_B1,Male,50-59,MA,unknown,>20,examiner,former,11-20,English,L1,Arabic,wide,wide,6.9,6.7,7.4,6.7,6.8
+38,Text19,R13,B2,7.3,7.3,6.7,6.0,6.0,high,non_col,low,"I noticed that the vocabulary used was adequate to the task, and at times was particularly appropriate.  However, there was a lack of collocation and overall not much variety.",q1,B1_C1_B2,Female,60-69,MA,degree,>20,examiner,former,3-5,English,L1,various,narrow,narrow,6.9,6.7,7.4,6.7,6.8
+110,Text19,R37,B2,7.3,6.0,6.7,7.0,6.8,high,non_col,low,"This example doesn't seem very authentic. The writer uses some C1/C2 level words (surmise, paramount, pampered, scrutinized, gratification) that they are very unlikely to use while still unable to use some basic chunks correctly (food in the table). Many of the higher level words are used incorrectly or inappropriately. There are frequent inaccurate collocations (easily gave, hustle in, set their mind) and inappropriate word choices (love life, flaunts, gratification). Some less common items are used correctly (surmise, pampered, paramount, adulthood, well-trained). Some word choices are quite confusing for the reader but do not really 'impede communication'. I have never come across an example like this. ",q4,C1_B2_B1,Female,50-59,PhD,diploma,>20,examiner trainer,former,>20,English,L1,Sinhalese,wide,wide,6.9,6.7,7.4,6.7,6.8
+16,Text2,R6,B1,4.3,5.3,5.3,4.3,4.5,low,NA,high,Poor use of collocations. No major spelling issues with basic high frequency language. Limited but minimally adequate for the task. ,q2,B1_C1_B2,Female,40-49,MA,diploma,>20,examiner trainer,current,11-20,English,L1,various,wide,wide,4.9,4.8,5.2,4.8,4.8
+127,Text2,R43,B1,4.3,4.3,3.3,3.3,3.4,low,NA,high,NA,q1,B2_B1_C1,Male,30-39,PhD,diploma,11-20,examiner,former,1-2,Polish,L2,various,wide,narrow,4.9,4.8,5.2,4.8,4.8
+94,Text2,R32,B1,5.3,4.3,6.3,4.3,5.0,low,NA,high,"Some very good LR.
+E,g,: brought up, good parents, excellent schools, behaviour, good parents, good effect on you, wealthy parents, pocket money, perfectly prepared. ",q4,B2_C1_B1,Female,50-59,MA,diploma,>20,examiner trainer,current,>20,Portuguese,L2,Portuguese,narrow,wide,4.9,4.8,5.2,4.8,4.8
+82,Text2,R28,B1,4.7,5.0,5.3,5.3,5.0,low,NA,high,"In terms of design I would have the text at the top of each slide cause it's annoying to keep clicking back to see it. I'm tempted to just go on memory rather than examine the specific words...
+
+pocket money 
+perfectly prepared
+see situtations
+wealthy parents (granted it's in the prompt)",q1,B1_B2_C1,Male,30-39,MA,diploma,11-20,examiner,former,1-2,English,L1,various,wide,wide,4.9,4.8,5.2,4.8,4.8
+134,Text20,R45,B2,7.3,6.3,7.7,6.3,6.3,high,non_col,high,"They are aware of less common lexis and idiomatic phrases e.g. hustle, scrutinised and blinded by the power of money but accuracy of use prevents higher grade",q3,C1_B1_B2,Female,60-69,BA,diploma,>20,examiner,former,>20,English,L1,Spanish,narrow,wide,5.9,5.7,6.4,5.7,5.8
+74,Text20,R25,B2,7.7,7.7,7.7,7.3,7.6,high,non_col,high,NA,q1,B1_B2_C1,Female,40-49,BA,diploma,11-20,examiner,former,6-10,English,L1,Arabic,wide,wide,5.9,5.7,6.4,5.7,5.8
+98,Text20,R33,B2,5.3,6.0,7.0,6.3,6.0,high,non_col,high,"Quite a wide range of vocabulary is used, often well, and includes less common items, e.g. discipline, certain ethical values, gratification, flaunts, surmise. Sometimes, however, the choice is inappropriate although the meaning is still clear, e.g. juvenile, scrutinized. Occasionally the meaning isn't clear, e.g. hustle. Spelling and word formation are accurate.  ",q4,B2_B1_C1,Female,60-69,MA,diploma,>20,examiner,former,11-20,English,L1,Arabic,wide,wide,5.9,5.7,6.4,5.7,5.8
+32,Text20,R11,B2,6.3,6.3,6.7,6.3,6.1,high,non_col,high,"Some issues with prepositions and chunks copied from the prompt but a good attempt to use less common vocab, vis put food on the table, respect for perseverance, flaunts",q4,B1_C1_B2,Female,60-69,MA,diploma,>20,examiner,former,11-20,English,L1,Arabic,wide,wide,5.9,5.7,6.4,5.7,5.8
+101,Text20,R34,B2,6.3,5.7,6.3,5.3,5.6,high,non_col,high,"The candidate has answered the question and expressed him/herself clearly enough. There are issues with grammar in particular that affect the band score and again, the rubric is copied in the topic sentence.",q1,B1_C1_B2,Male,40-49,PhD,certificate,>20,examiner,former,1-2,English,L1,Arabic,wide,wide,5.9,5.7,6.4,5.7,5.8
+69,Text21,R23,C1,6.7,9.3,9.3,8.3,7.6,low,NA,low,Wider range of vocab to deal with rubric: impoverished/poor.  A one-sided argument though.,q2,B2_C1_B1,Male,50-59,MA,diploma,>20,examiner,former,11-20,English,L1,various,wide,wide,8.6,8.4,8.9,8.4,8.4
+21,Text21,R7,C1,8.3,8.3,8.7,8.3,9.0,low,NA,low,"Appropriate use of coloocations, less common expressions and a clear awareness of style.",q4,B2_B1_C1,Male,40-49,BA,diploma,11-20,examiner,former,6-10,Spanish,L2,Spanish,narrow,wide,8.6,8.4,8.9,8.4,8.4
+90,Text21,R30,C1,8.3,8.3,8.3,8.3,8.1,low,NA,low,"strong use of collocation, modifiers (better prepared for), less frequent lexis (prematurely exposed to). The candidate shows some ability to generate accurate, albeit somewhat novel phrasing e.g. They are making a straight contribution to their families. In general the lexis is quite strong in this piece",q2,B2_C1_B1,Male,30-39,MA,diploma,11-20,examiner,former,1-2,English,L1,Punjabi,narrow,narrow,8.6,8.4,8.9,8.4,8.4
+51,Text21,R17,C1,7.0,7.3,8.7,7.0,7.5,low,NA,low,"The use of noun phrases (eg. low family income, an impoverished background, family role models), collocations (eg. highly motivated, sheer motivation, prematurely exposed, set hight goals) and sophisticated, less common, vocabulary (eg. accompany, encounter, impoverished, exposure). ",q3,C1_B2_B1,Female,50-59,MA,certificate,>20,examiner,former,>20,Portuguese,L2,Portuguese,narrow,narrow,8.6,8.4,8.9,8.4,8.4
+102,Text22,R34,C1,8.3,8.3,8.7,8.7,8.6,low,NA,high,This response is written at nearly native speaker level. I only noticed a couple of awkward phrases and the rubric was copied in the topic sentence.,q1,B1_C1_B2,Male,40-49,PhD,certificate,>20,examiner,former,1-2,English,L1,Arabic,wide,wide,7.9,7.7,8.4,7.7,7.7
+78,Text22,R26,C1,9.0,9.0,9.3,8.3,9.1,low,NA,high,"Very high level vocabulary, mostly accurate: prematurely exposed, brought up, sacrificing luxuries for essential items, accompany, tend to, impoverished, etc.  ",q1,B1_B2_C1,Male,40-49,MA,certificate,11-20,examiner,former,3-5,English,L1,Arabic,narrow,wide,7.9,7.7,8.4,7.7,7.7
+24,Text22,R8,C1,8.7,8.0,9.0,8.7,8.1,low,NA,high,"Band 8: The candidate uses a wide range of vocabulary fluently and flexibly to convey precise meanings. S/he skilfully uses uncommon lexical items but there are occasional inaccuracies in word choice and collocation.
+
+The candidate falls short of using a wide range of vocabulary with very natural and sophisticated control of lexical features; rare minor errors occur only as ‘slips",q3,B2_C1_B1,Male,50-59,MA,diploma,>20,examiner,current,11-20,Pashtu,L2,Arabic,narrow,narrow,7.9,7.7,8.4,7.7,7.7
+45,Text22,R15,C1,7.7,7.7,7.7,7.3,7.4,low,NA,high,"There are some inaccuracies in collocation.  The writer uses 'early exposure' in the final paragraph, which I would guess refers to the clause with 'exposed' in an earlier paragraph; however, the collocation is left with a clear link, as 'early exposure' could also refer to such situations as photography.  
+
+Many precise meanings are conveyed here.  'Turn to' indicates a proper casual relationship.  The word 'realities' is in single quotes for some reason, yet the word itself is used properly.  The word 'impoverished (though Bill Gates' family in truth had money) is used well within the context of the writing.  The words/phrases 'encounter' and 'direct contribution' (though the latter is slightly out of context here) are used in a fluent and uncommon way.  
+
+Most word formation errors come from issues with possessives (ex: worlds -- > world's & parent's / parents'); both errors change the meaning of the phrase of sentence unless the reader can sense what the writer means.  
+
+",q4,B2_B1_C1,Male,40-49,MA,degree,>20,examiner,former,11-20,English,L1,various,wide,wide,7.9,7.7,8.4,7.7,7.7
+87,Text23,R29,C1,7.3,6.3,8.3,7.3,7.0,mid,col,low,"General Features 
+* a wide range of vocabulary used fluently, flexibly and accurately
+* a very good awareness of style and collocation
+
+Specific Examples
+* be prematurely exposed to sthg, learn to cope on a low income, act as an incentive, from a very early age, supplement their income, a modest background, be 'robbed' of your childhood, sheer motivation",q4,C1_B2_B1,Female,50-59,BA,diploma,>20,examiner,former,1-2,English,L1,Spanish,narrow,wide,8.2,8.0,8.6,8.0,8.0
+42,Text23,R14,C1,8.3,8.0,8.7,8.3,8.1,mid,col,low,"'- Uses a wide range of vocabulary fluently and flexibly to convey precise meanings - Collocations: humble parents, prematurely exposed, taught fundamental skills, occasionally supplement, a concrete example / Other Multi-word units: the realities of life, from an early age
+- skilfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation: in the weekends, collect some pocket money, make a straight contribution
+• produces rare errors in spelling and/or word formation: eg. e.g.",q2,C1_B1_B2,Male,50-59,PhD,diploma,>20,examiner trainer,current,11-20,English,L1,Arabic,wide,wide,8.2,8.0,8.6,8.0,8.0
+3,Text23,R1,C1,7.3,6.3,8.0,7.3,7.6,mid,col,low,"The candidate uses a wide range of vocabulary to convey precise meanings, as well as less common lexical items. The candidate produces some errors but these didn't reduce communication. ",q3,C1_B1_B2,Female,30-39,BA,diploma,6-10,examiner,former,6-10,Spanish,L2,Arabic,wide,wide,8.2,8.0,8.6,8.0,8.0
+126,Text23,R42,C1,9.3,9.7,9.3,9.7,9.4,mid,col,low,"All accurate use of lexis. Collocations and lexical chunks used accurately and appropriately eg 'set ambitious goals', 'humble background'.",q1,B2_B1_C1,Male,50-59,MA,diploma,>20,examiner,former,3-5,English,L1,Chinese,wide,wide,8.2,8.0,8.6,8.0,8.0
+138,Text24,R46,C1,8.3,7.3,8.3,7.3,7.7,mid,col,high,"The range of vocab used is wide; the cand. manages to convey precise meanings. There are, however, some awkward attempts to use (near) synonyms, presumably to avoid repetition [with modest backgrounds; humble] but these have no impact on understanding. No spelling mistakes whatsoever!",q3,B1_C1_B2,Male,40-49,MA,certificate,11-20,examiner trainer,former,11-20,English; Russian,L1,various,wide,narrow,8.4,8.2,8.8,8.2,8.2
+63,Text24,R21,C1,8.7,8.7,9.3,9.0,9.0,mid,col,high,"Here, unlike the first text, almost every chunk was appropriate, natural and had appropriate colligations e.g.  prematurely exposed to; problems of adult life; low family income, sacrificing luxuries for; essential items.
+
+",q2,B2_C1_B1,Male,40-49,MA,diploma,>20,examiner,former,3-5,English,L1,various,wide,wide,8.4,8.2,8.8,8.2,8.2
+108,Text24,R36,C1,7.3,7.0,9.3,8.3,8.6,mid,col,high,"wide range of lexis
+uncommon lexis; excellent use of fixed expression, collocations and nominalizations
+precise and flexible
+natural use of lexis
+good control over all lexical features (spelling, word choice and word formation)",q2,B2_C1_B1,Female,40-49,MA,diploma,11-20,examiner,former,3-5,English,L1,Arabic,narrow,narrow,8.4,8.2,8.8,8.2,8.2
+27,Text24,R9,C1,8.3,8.3,7.3,8.3,8.0,mid,col,high,"uncommon lexical items / collocations: brought up in (families); better prepared to deal with (problems); exposed to problems; sacrificing luxuries for essential items; 'realities' of life; act as in incentive; from a very early age; supplement.. income; make direct contribution to; set ambitious goals; robbed of childhood; turn to crime;
+
+inaccuracies / lack of clarity or focus: humble parents; cope [on]; truly inspired; upgrade economic & social status; Mr Bill Gates; eg/e.g. ; with modest backgrounds
+ ",q4,C1_B1_B2,Male,50-59,MA,diploma,11-20,examiner,former,3-5,Chinese; English,L2,various,wide,wide,8.4,8.2,8.8,8.2,8.2
+99,Text25,R33,C1,7.3,7.7,8.0,7.7,7.6,mid,non_col,low,"A wide range of vocabulary was used accurately, including less common items, e.g. offspring, obstacles, witness (v), numerous, contribute, setbacks, encounter. There was good use of collocation, e.g. low family income, highly motivated, to set high goals, serve as an example, impoverished backgrounds, robbed of their childhood, family role models, sheer motivation, but occasional inappropriate choices, e.g. prematurely exposed, potentially collect, straight contribution.    ",q4,B2_B1_C1,Female,60-69,MA,diploma,>20,examiner,former,11-20,English,L1,Arabic,wide,wide,7.6,7.4,8.1,7.4,7.4
+57,Text25,R19,C1,7.3,7.3,8.7,8.3,8.0,mid,non_col,low,"The vocab is excellent however its difficult to agree with someone who is talking bollox :)
+The vocabulary that Bill Gates came from an impoverished background is great English but completely untrue, he went to one of the few ones that had computers at the time.....I digress.  
+This answer is a good example of a candidate who had good vocabulary and grammar but was not able to answer the question or organise their answer. A candidate like this could be easily taught to produce a better answer.  ",q1,B2_B1_C1,Male,50-59,MA,diploma,>20,examiner,former,11-20,English,L1,Arabic,wide,wide,7.6,7.4,8.1,7.4,7.4
+30,Text25,R10,C1,8.0,7.7,8.0,7.7,7.1,mid,non_col,low,Some skillful use of less common items and awareness of collocation. Very few (if any) spelling errors. Range was quite strong but not perfect. ,q4,B1_B2_C1,Male,30-39,MA,diploma,11-20,examiner,former,3-5,English,L1,Japanese,wide,wide,7.6,7.4,8.1,7.4,7.4
+117,Text25,R39,C1,7.7,8.0,8.7,7.7,8.6,mid,non_col,low,"There was a wide range of use of collocations and phrases and of less common language:
+offspring
+premature exposure to
+sacrificing luxuries for essential items
+to serve as
+they tend to
+an impoverished background
+robbed of their childhood
+sheer motivation",q4,C1_B1_B2,Female,50-59,MA,diploma,>20,examiner,former,6-10,English,L1,various,wide,narrow,7.6,7.4,8.1,7.4,7.4
+111,Text26,R37,C1,8.3,8.7,9.3,9.0,9.6,mid,non_col,high,"The candidate uses a wide range of vocabulary, particularly sustained use of collocation (social environment, necessary skills, very early age, direct contribution, highly motivated, set goals, relevant example, etc). S/he uses dependent prepositions (contribute to, turn to crime, survive on). S/he also uses synonyms and antonyms to avoid repetition (poor/impoverished, children/offspring, robbed/cheated, realities/struggles/setbacks, luxuries/essential items). Sustained use of less common words (ultimate, sheer etc). S/he uses different forms of words with accuracy (motivated/motivation). There are no errors or inappropriacies in word choice.",q4,C1_B2_B1,Female,50-59,PhD,diploma,>20,examiner trainer,former,>20,English,L1,Sinhalese,wide,wide,8.7,8.5,9.0,8.5,8.5
+129,Text26,R43,C1,8.3,7.3,7.3,7.3,7.5,mid,non_col,high,"there were some quite advanced words (can't remember specific examples, unfortunately). But there were also some mistakes and misuse, which didn't cause much difficulty for the reader, though",q1,B2_B1_C1,Male,30-39,PhD,diploma,11-20,examiner,former,1-2,Polish,L2,various,wide,narrow,8.7,8.5,9.0,8.5,8.5
+75,Text26,R25,C1,9.0,9.0,9.3,9.3,9.1,mid,non_col,high,NA,q1,B1_B2_C1,Female,40-49,BA,diploma,11-20,examiner,former,6-10,English,L1,Arabic,wide,wide,8.7,8.5,9.0,8.5,8.5
+39,Text26,R13,C1,7.3,7.3,7.7,6.3,6.5,mid,non_col,high,"I noticed good collocation across whole sentences.  In every case, the phrase or group of words represented one idea that was coherent with the argument being put forth.",q1,B1_C1_B2,Female,60-69,MA,degree,>20,examiner,former,3-5,English,L1,various,narrow,narrow,8.7,8.5,9.0,8.5,8.5
+6,Text26,R2,C1,8.7,8.3,8.7,8.3,9.0,mid,non_col,high,"They're clearly very strong, a wide range of less common items/collocations/expressions. ""Impoverished background"" "" setbacks"" ""turn to crime"" ""their parent's own struggles serve as an example to them"". Not quite 9 just because of a couple of odd uses of eg, and children that ""labor on the weekend"", a strange verb choice. So for all intents and purposes maybe 9, but that's where we're looking out for just one or two slight errors, which is enough to hold it back. ",q3,B1_C1_B2,Male,30-39,MA,diploma,11-20,examiner,former,3-5,English,L1,Italian,narrow,narrow,8.7,8.5,9.0,8.5,8.5
+144,Text27,R48,C1,6.3,6.0,7.0,7.3,7.4,high,col,low,"The test taker took risks with their language and attempted to use high-level, less frequent lexis. However, they had more than an occasional inaccuracy which showed a lack of control of the language needed for a higher score. There seems to be a good effort and understanding of less frequent language, showing that had the test taker not taken such a risk, there may have been better control.",q2,C1_B2_B1,Female,30-39,MA,certificate,11-20,examiner,current,3-5,English,L1,Arabic,wide,narrow,8.3,8.1,8.8,8.1,8.2
+72,Text27,R24,C1,8.7,9.3,9.3,8.3,8.1,high,col,low,"in the weekends - systematical
+e.g. once correct then eg twice
+issues with possession, but that is more grammatical - parents', worlds,  ",q3,C1_B2_B1,Female,30-39,MA,certificate,6-10,examiner,current,3-5,English,L1,various,wide,wide,8.3,8.1,8.8,8.1,8.2
+15,Text27,R5,C1,8.3,6.3,8.7,7.0,7.5,high,col,low,Precision of meaning; skillful use of less common and idiomatic expressions - occasional inaccuracies e.g. 'straight contribution' rather than 'direct contribution'. Skillful use of substitution to avoid repetition.,q3,C1_B1_B2,Female,60-69,MA,diploma,>20,senior examiner and trainer,current,>20,English,L1,Chinese,wide,wide,8.3,8.1,8.8,8.1,8.2
+48,Text27,R16,C1,8.0,8.0,8.3,8.3,7.8,high,col,low,"uses a wide range of vocabulary fluently and flexibly to convey precise meanings: augment, quintessential, impoverished, victimized
+collocation: highly motivated, turn to crime
+idioms: peddle merchandise, pocket money",q3,B2_C1_B1,Female,40-49,MA,certificate,6-10,examiner,former,6-10,English,L1,various,narrow,wide,8.3,8.1,8.8,8.1,8.2
+36,Text28,R12,C1,6.7,8.3,8.3,8.3,7.8,high,col,high,Fluent and accurate use of higher-level lexis helped the candidate achieve a high mark on lexis. ,q1,B1_C1_B2,Male,40-49,MA,degree,11-20,examiner,former,3-5,English,L1,Arabic,narrow,narrow,7.2,7.0,7.7,7.0,7.0
+135,Text28,R45,C1,5.3,6.3,8.3,8.7,8.5,high,col,high,"The less common and sophisticated use of lexis relevant to the topic e.g. impoverished, shun, quitiessential, to peddle etc.",q3,C1_B1_B2,Female,60-69,BA,diploma,>20,examiner,former,>20,English,L1,Spanish,narrow,wide,7.2,7.0,7.7,7.0,7.0
+33,Text28,R11,C1,7.3,7.3,8.3,7.3,7.6,high,col,high,"Good lexical resource shown by good range and accurate collocations:
+impetus, shun luxuries, requisite skills, augment family income, peddle merchandise, impoverished backgrounds, first-hand experience",q4,B1_C1_B2,Female,60-69,MA,diploma,>20,examiner,former,11-20,English,L1,Arabic,wide,wide,7.2,7.0,7.7,7.0,7.0
+66,Text28,R22,C1,5.7,5.3,7.0,6.0,6.0,high,col,high,"The student's got a good range of lexis and shows flexibility. 
+There are uncommon word choices that fit the style. 
+It's higher than adequate, which takes them out of the 6 range, though not wide enough/with enough accuracy to move them into 8. They fit the 7 descriptors more. ",q2,C1_B2_B1,unknown,30-39,MA,diploma,11-20,examiner trainer,former,3-5,English,L1,Arabic,wide,narrow,7.2,7.0,7.7,7.0,7.0
+12,Text29,R4,C1,8.3,8.3,8.3,8.3,8.1,high,non_col,low,"uses a wide range to covey precise meaning - prematurely exposed to the predicaments of adult life/ glimpse realities of life
+skillful use of idiomatic language - learning to survive on/ impoverished background/ robbed of their childhood/ serve as an example.... despite some inaccuracies - hustle in the weekends/ straight contribution",q2,B1_B2_C1,Male,50-59,MA,diploma,>20,senior examiner and trainer,current,11-20,English,L1,Korean,wide,wide,7.6,7.4,8.1,7.4,7.4
+114,Text29,R38,C1,7.7,7.7,7.3,7.3,7.0,high,non_col,low,"conceive, accompany, notwithstanding, sacrifice, predicament, premature, hussle",q1,C1_B1_B2,Male,40-49,MA,diploma,>20,examiner,former,1-2,English,L1,Chinese,narrow,wide,7.6,7.4,8.1,7.4,7.4
+105,Text29,R35,C1,8.3,8.3,8.7,8.3,8.6,high,non_col,low,"Use of a wide lexical range, sustained use of idiomatic expressions and collocations used ",q4,C1_B1_B2,Female,40-49,MA,certificate,11-20,examiner,former,11-20,English,L1,Arabic,narrow,narrow,7.6,7.4,8.1,7.4,7.4
+54,Text29,R18,C1,7.7,7.7,7.7,7.7,7.9,high,non_col,low,"there is some flexibility and precision.
+uses less common lexical items with some awareness of style and collocation",q1,B2_B1_C1,Male,50-59,MA,degree,>20,examiner,former,3-5,English,L1,Arabic,narrow,wide,7.6,7.4,8.1,7.4,7.4
+96,Text29,R32,C1,5.3,7.3,8.3,8.3,7.1,high,non_col,low,"Candidate only wrote about the less privileged ones. He/she did not mentioned the rich kids, however, very well written. If I am not mistaken, the candidate has to be penalised. There's a ceiling. Can't remember very well as the writing part has been taken away from Brazil... :( I haven't corrected the written part for at least a year or 2 maybe. Unfortunately :( Anyway, very good vocabulary used.",q4,B2_C1_B1,Female,50-59,MA,diploma,>20,examiner trainer,current,>20,Portuguese,L2,Portuguese,narrow,wide,7.6,7.4,8.1,7.4,7.4
+4,Text3,R2,B1,5.0,4.3,4.3,3.7,3.7,mid,col,low,"There were a few flashes of less common language (""doing chores"" ""pocket money"", but these were far outweighed by the frequent errors causing strain for the reader (""positive school"" ""my age is late to work by children"")",q3,B1_C1_B2,Male,30-39,MA,diploma,11-20,examiner,former,3-5,English,L1,Italian,narrow,narrow,4.8,4.6,5.1,4.6,4.7
+136,Text3,R46,B1,4.3,5.3,6.0,5.3,4.8,mid,col,low,"Surprisingly good spelling (which immediately makes you think that it's not a real essay written by a test-taker)!
+Some attempts at using less common words [tremendous] and collocations [doing chores; pocket money], but not always appropriately [tremendous parents ?]. However, some inappropriacies, on occasion, interfere with the message and this barely makes Band 6. Having said that, LR is still the strongest feature of the candidate's writing.",q3,B1_C1_B2,Male,40-49,MA,certificate,11-20,examiner trainer,former,11-20,English; Russian,L1,various,wide,narrow,4.8,4.6,5.1,4.6,4.7
+79,Text3,R27,B1,5.7,5.7,6.7,5.7,5.6,mid,col,low," - A risk taker. Candidate uses less common lexical items with some awareness of style and collocation e.g. ""desired effect"", ""acquired money"" ""work independently"" ""fairly young""
+ - but many errors in  word formation. Lots of errors with collocations ("" by another countries"", "" accept the money by their parents"", etc)   and phrasal verbs. This  impedes communication to some extent as it requires effort from the reader 
+e.g. "" they could their money buy something or  entrance to the bank"" 
+ - spelling generally good
+
+",q3,B2_C1_B1,Male,50-59,MA,unknown,>20,examiner,former,11-20,English,L1,Arabic,wide,wide,4.8,4.6,5.1,4.6,4.7
+61,Text3,R21,B1,5.0,4.0,4.7,4.3,4.3,mid,col,low,"The basic nature of the vocabulary choice. 
+The lack of control over the vocab, which causes confusion, e.g.  my age is late to work by childrens ages.
+The lack of coherence in the text as a whole (through grammatical, discoursal, punctuation) probably impacted and amplified the feeling that there was a lack of control over the vocab.",q2,B2_C1_B1,Male,40-49,MA,diploma,>20,examiner,former,3-5,English,L1,various,wide,wide,4.8,4.6,5.1,4.6,4.7
+120,Text30,R40,C1,9.3,8.0,9.3,8.0,9.5,high,non_col,high,The TT used a 'wide range of language with very natural and sophisticated control of lexical features'. Some examples from the text to support this include: 'prematurely exposed to predicaments' 'sacrificing luxuries' 'necessary skills for survival' 'making a direct contribution to their families in terms of labor and subsistence' 'an impoverished background...used his ingenuity and perseverance to set up the worlds pre-eminent technology company'. ,q2,C1_B2_B1,Male,30-39,MA,diploma,11-20,examiner,former,11-20,English,L1,various,narrow,wide,8.6,8.4,9.0,8.4,8.5
+81,Text30,R27,C1,8.7,8.0,9.7,8.7,9.1,high,non_col,high,"  - uses a wide range of vocabulary and indeed consistently uses more sophisticated   C2 level vocabulary  
+; e.g. ""impoverished "", ""inconceivably"", ""ingenuity"" ""perseverance"", ""subsistence"", pre-eminent"", etc
+ - varied use of uncommon phrasal verbs, collocations 
+e.g. ""robbed of  their childhood ""  "" prematurely exposed to predicaments of"" 
+ - sustained accuracy in spelling
+
+
+",q3,B2_C1_B1,Male,50-59,MA,unknown,>20,examiner,former,11-20,English,L1,Arabic,wide,wide,8.6,8.4,9.0,8.4,8.5
+18,Text30,R6,C1,7.3,8.3,8.3,8.3,7.6,high,non_col,high,"Wide range of task appropriate collocations used, overall, to good effect. Good control of spelling. A few occasion odd choices in collocation and/or word choice. ",q2,B1_C1_B2,Female,40-49,MA,diploma,>20,examiner trainer,current,11-20,English,L1,various,wide,wide,8.6,8.4,9.0,8.4,8.5
+93,Text30,R31,C1,9.3,9.0,9.3,8.7,9.6,high,non_col,high,"Overall sophisticated use of collocation and phrasing. Clear familiarity with a wide range of topic appropriate lexis. 
+Occasional inappropriate choice e.g. 'strife' but that might be hyperbole. ",q2,B2_C1_B1,Female,60-69,MA,diploma,>20,examiner,former,6-10,English,L1,various,wide,wide,8.6,8.4,9.0,8.4,8.5
+64,Text4,R22,B1,4.0,4.0,6.0,4.0,4.7,mid,col,high,"Adequate range for the task but there was a lot of repetition. 
+However, they did not misspell the items to the extent that it causes strain. 
+I can't say the range is minimal for the task, but it doesn't go beyond that of adequate, which constitutes a 6 band. ",q2,C1_B2_B1,unknown,30-39,MA,diploma,11-20,examiner trainer,former,3-5,English,L1,Arabic,wide,narrow,4.9,4.8,5.3,4.8,4.8
+49,Text4,R17,B1,4.0,5.0,6.0,4.7,4.1,mid,col,high,"The candidate attempts to use some less frequent items and collocations (eg. desired effect, fairly young, pocket money, work independantly), and even some idiomatic language (on the flip side), but the lack of control of sentence structure affects coherence and understanding. I believe his use of lexical items is what enables this text to pass some ideas, although not coherent enough for what the task demands. ",q3,C1_B2_B1,Female,50-59,MA,certificate,>20,examiner,former,>20,Portuguese,L2,Portuguese,narrow,narrow,4.9,4.8,5.3,4.8,4.8
+19,Text4,R7,B1,5.3,4.3,4.3,4.7,4.8,mid,col,high,Lack of awareness regarding basic collocation and lack of accuracy in terms of word form as well.,q4,B2_B1_C1,Male,40-49,BA,diploma,11-20,examiner,former,6-10,Spanish,L2,Spanish,narrow,wide,4.9,4.8,5.3,4.8,4.8
+115,Text4,R39,B1,4.3,4.0,6.0,3.3,3.4,mid,col,high,"There was a decent range of vocabulary related to the topic, but it needed to be seen separate to the grammar:
+tremendous
+independent
+prepared
+chores
+journalist
+life experience
+pocket money
+perfectly prepared",q4,C1_B1_B2,Female,50-59,MA,diploma,>20,examiner,former,6-10,English,L1,various,wide,narrow,4.9,4.8,5.3,4.8,4.8
+133,Text5,R45,B1,5.3,5.3,6.3,5.3,5.5,mid,non_col,low,"That they have adequate vocabulary to talk about the topic e.g. pocket money, work, support, income, etc., but not the flexibility and accuracy of higher bands",q3,C1_B1_B2,Female,60-69,BA,diploma,>20,examiner,former,>20,English,L1,Spanish,narrow,wide,4.7,4.5,5.0,4.5,4.5
+97,Text5,R33,B1,5.0,5.0,5.0,4.7,4.5,mid,non_col,low,"The range of vocab is quite limited but is minimally adequate for the task, e.g. behavior, effect, mature, wages, pocket money. Errors with collocation are noticeable, e.g. positive school, social experience, culture about children, entrance to the bank. This can cause difficulty fr the reader. Spelling of generally accurate.  ",q4,B2_B1_C1,Female,60-69,MA,diploma,>20,examiner,former,11-20,English,L1,Arabic,wide,wide,4.7,4.5,5.0,4.5,4.5
+43,Text5,R15,B1,5.0,5.3,5.3,5.0,5.0,mid,non_col,low,"There is a limited range of vocabulary.  In paragraph 1, there are instances of lexical usage that are minimally adequate for the task ('I disagree', which should be 'I disagree with' / I show).  One key is that some parts are markedly different than others due to the writer's recycling of words from the prompt.  Outside of the reuse of vocabulary from the prompt, the writer's lexical resource is simple and repetitive without range or depth ('money' is used seven times) and, in other places, word choice is strange.  
+
+",q4,B2_B1_C1,Male,40-49,MA,degree,>20,examiner,former,11-20,English,L1,various,wide,wide,4.7,4.5,5.0,4.5,4.5
+10,Text5,R4,B1,4.0,4.3,4.0,4.0,3.9,mid,non_col,low,"basic vocabulary
+some items not related to task
+errors cause strain - entrance to bank/ that situation around me at our parents house",q2,B1_B2_C1,Male,50-59,MA,diploma,>20,senior examiner and trainer,current,11-20,English,L1,Korean,wide,wide,4.7,4.5,5.0,4.5,4.5
+112,Text6,R38,B1,6.0,4.7,5.0,4.7,5.0,mid,non_col,high,I didn't notice any features which would take this learner above the five band. A lot of the lexis was not used correctly. ,q1,C1_B1_B2,Male,40-49,MA,diploma,>20,examiner,former,1-2,English,L1,Chinese,narrow,wide,5.2,5.0,5.5,5.0,5.1
+109,Text6,R37,B1,5.3,5.0,5.3,5.3,5.0,mid,non_col,high,"Vocabulary is 'minimally adequate' for the task. Simple language is used accurately (behavior, mature, culture). Some chunks are used correctly (life experience, everything they want, pocket money). Some errors of word choice cause difficulty for the reader (entrance to the bank, study at money)",q4,C1_B2_B1,Female,50-59,PhD,diploma,>20,examiner trainer,former,>20,English,L1,Sinhalese,wide,wide,5.2,5.0,5.5,5.0,5.1
+76,Text6,R26,B1,5.7,5.3,6.3,5.7,5.5,mid,non_col,high,"I noticed high level vocabulary (on the CEFR scale), such as: pocket money, suspect (for speculation), subsequently, ""in my case"", tribe, journalist.  These are used fairly accurately.  But the writer lacked more specific vocabulary to get a higher band: ""entrance to the bank"" (for job), ""my age is late"".  ",q1,B1_B2_C1,Male,40-49,MA,certificate,11-20,examiner,former,3-5,English,L1,Arabic,narrow,wide,5.2,5.0,5.5,5.0,5.1
+13,Text6,R5,B1,4.3,5.3,5.3,5.0,4.5,mid,non_col,high,"The effect of error on communication was high and caused difficulty [My age is late to work by children's ages | they study at money | countries had a culture about children]. However, meaning generally comes through and there are some less basic items that are used correctly e.g. life experience, mature, be prepare.",q3,C1_B1_B2,Female,60-69,MA,diploma,>20,senior examiner and trainer,current,>20,English,L1,Chinese,wide,wide,5.2,5.0,5.5,5.0,5.1
+52,Text6,R18,B1,7.3,6.3,6.3,5.3,6.0,mid,non_col,high,errors in spelling and word formation do not generally impede communication.,q1,B2_B1_C1,Male,50-59,MA,degree,>20,examiner,former,3-5,English,L1,Arabic,narrow,wide,5.2,5.0,5.5,5.0,5.1
+25,Text7,R9,B1,5.3,5.3,5.3,4.3,5.0,high,col,low,"some appropriate items: first-class parents; corroborate this claim; not to generalize; freelance; work as a receptionist; saw firsthand; comparatively young; pocket money
+
+some problematic items, limited range, (causing some difficulty): positive school; hoard money; 'age is late to work by children ages'; 'had a culture about children'; doing errands; safeguard for the future; 
+
+",q4,C1_B1_B2,Male,50-59,MA,diploma,11-20,examiner,former,3-5,Chinese; English,L2,various,wide,wide,5.1,5.0,5.4,5.0,5.0
+103,Text7,R35,B1,4.3,5.3,6.3,5.3,5.0,high,col,low,"For a Band 6 - freelance, firsthand, social experience, comparatively, errands, safeguard
+
+vocabulary used incorrectly: hoard, corroborate, etc
+",q4,C1_B1_B2,Female,40-49,MA,certificate,11-20,examiner,former,11-20,English,L1,Arabic,narrow,narrow,5.1,5.0,5.4,5.0,5.0
+73,Text7,R25,B1,6.7,6.3,7.3,5.3,6.0,high,col,low,NA,q1,B1_B2_C1,Female,40-49,BA,diploma,11-20,examiner,former,6-10,English,L1,Arabic,wide,wide,5.1,5.0,5.4,5.0,5.0
+85,Text7,R29,B1,5.0,4.7,5.3,4.3,4.5,high,col,low,"General Features:
+* uses a limited range of vocabulary which is minimally adequate
+
+Specific Lexical Items:
+Positive points: work as a receptionist, saw firsthand, comparatively young, do errands, pocket money, psychologically prepared
+Negative points: I show that situation around me, could buying things like positive school, I start freelance from 20 ages, study at money",q4,C1_B2_B1,Female,50-59,BA,diploma,>20,examiner,former,1-2,English,L1,Spanish,narrow,wide,5.1,5.0,5.4,5.0,5.0
+139,Text8,R47,B1,5.0,4.7,5.3,5.3,5.1,high,col,high,The lexical resource was OK but not always integrated well into a sentence.,q4,C1_B1_B2,Female,70+,BA,diploma,>20,examiner,former,6-10,English,L1,Hebrew,wide,wide,5.3,5.2,5.7,5.2,5.2
+28,Text8,R10,B1,5.7,5.7,6.0,5.0,5.2,high,col,high,Use of some less common lexis and generally satisfactory lexis for the task. ,q4,B1_B2_C1,Male,30-39,MA,diploma,11-20,examiner,former,3-5,English,L1,Japanese,wide,wide,5.3,5.2,5.7,5.2,5.2
+37,Text8,R13,B1,4.3,4.0,5.3,5.3,5.0,high,col,high,"I noticed regurgitated phrases that were sometimes used correctly, but often not exact.  Because they are phrases, they are evidence of correct collocation, which would probably enhance a score given by a machine, at least at the level such programs work now.",q1,B1_C1_B2,Female,60-69,MA,degree,>20,examiner,former,3-5,English,L1,various,narrow,narrow,5.3,5.2,5.7,5.2,5.2
+130,Text8,R44,B1,5.7,5.0,5.3,4.3,4.9,high,col,high,"Although the candidate attempted to utilise more advanced words - with mixed accuracy (e.g. hoard), these did not improve the quality of their written response. Generating more of a mixed register/style.",q3,B1_C1_B2,unknown,40-49,BA,certificate,11-20,examiner,former,1>,Portuguese,L2,English,wide,wide,5.3,5.2,5.7,5.2,5.2
+70,Text8,R24,B1,5.3,5.3,5.3,4.3,4.7,high,col,high,"poor use of collocation and noticeable use of memorized phrases, but enough use of language to minimally fit the task at hand- actually would rate -5
+to corroborate this claim, not to generalize, comparatively young, safeguard for the future - seem memorized
+are prepared - for is missing
+a lot of use of  'good' 'thing' - does not use enough less common vocabulary unless it's memorized.",q3,C1_B2_B1,Female,30-39,MA,certificate,6-10,examiner,current,3-5,English,L1,various,wide,wide,5.3,5.2,5.7,5.2,5.2
+67,Text9,R23,B1,4.3,4.3,5.3,5.3,4.5,high,non_col,low,Much of the content is tangential or irrelevant.,q2,B2_C1_B1,Male,50-59,MA,diploma,>20,examiner,former,11-20,English,L1,various,wide,wide,5.1,4.9,5.4,4.9,4.9
+7,Text9,R3,B1,5.3,4.3,5.3,4.3,4.4,high,non_col,low,Just sufficient for the task. Some error.,q1,B2_C1_B1,unknown,60-69,MA,certificate,>20,examiner trainer,current,11-20,English,L1,Spanish,narrow,wide,5.1,4.9,5.4,4.9,4.9
+46,Text9,R16,B1,4.3,5.0,5.3,4.3,4.5,high,non_col,low,"did not reach level 6 (adequate range of vocabulary for the task, attempts to use less common vocabulary but with some
+inaccuracy, makes some errors in spelling and/or word formation, but they do not impede communication) because meaning was unclear in several places. More than ""some"" inaccuracy although they took risks (fantasize, procuring)",q3,B2_C1_B1,Female,40-49,MA,certificate,6-10,examiner,former,6-10,English,L1,various,narrow,wide,5.1,4.9,5.4,4.9,4.9
+106,Text9,R36,B1,5.7,5.3,5.7,5.0,5.0,high,non_col,low,"uses an adequate range of vocab, however, too many inaccuracies in word choice & collocations for a 6
+attempts to use some less common lexical items
+",q2,B2_C1_B1,Female,40-49,MA,diploma,11-20,examiner,former,3-5,English,L1,Arabic,narrow,narrow,5.1,4.9,5.4,4.9,4.9
+142,Text9,R48,B1,4.0,4.0,4.7,3.7,4.8,high,non_col,low,"Spelling was generally accurate and only a few spelling issues caused meaning from coming through. However, the test taker struggled with word formation which caused strain for the reader.",q2,C1_B2_B1,Female,30-39,MA,certificate,11-20,examiner,current,3-5,English,L1,Arabic,wide,narrow,5.1,4.9,5.4,4.9,4.9

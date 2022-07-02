@@ -1,0 +1,122 @@
+text_id,rater_id,CEFR,soph,binary_soph,soph_type,accuracy,tags
+1,R1,B1,low,low,mix,low,accuracy; error_severity; sophistication; diversity
+1,R11,B1,low,low,mix,low,preposition; spelling; accuracy; sophistication; word_choice
+1,R19,B1,low,low,mix,low,
+1,R40,B1,low,low,mix,low,word_formation; diversity
+2,R6,B1,low,low,mix,high,collocation_accuracy; spelling; sophistication; diversity; task_adequacy
+2,R28,B1,low,low,mix,high,
+2,R32,B1,low,low,mix,high,
+3,R2,B1,mid,high,col,low,FS; FS_accuracy; sophistication; error_severity
+3,R21,B1,mid,high,col,low,sophistication; control; coherence
+3,R27,B1,mid,high,col,low,sophistication; style; collocation; collocation_accuracy; accuracy; word_formation; error_severity; spelling
+3,R46,B1,mid,high,col,low,spelling; sophistication; collocation; accuracy; error_severity; message
+4,R7,B1,mid,high,col,high,accuracy; collocation; word_formation; sophistication
+4,R17,B1,mid,high,col,high,sophistication; FS; collocation; coherence; task_adequacy
+4,R22,B1,mid,high,col,high,diversity
+4,R39,B1,mid,high,col,high,diversity
+5,R4,B1,mid,high,non_col,low,sophistication; error_severity; task_adequacy
+5,R15,B1,mid,high,non_col,low,diversity; task_adequacy; sophistication; accuracy(word_choice)
+5,R33,B1,mid,high,non_col,low,diversity; task_adequacy; spelling
+5,R45,B1,mid,high,non_col,low,task_adequacy; diversity; sophistication
+6,R5,B1,mid,high,non_col,high,error_gravity; sophistication
+6,R18,B1,mid,high,non_col,high,error_gravity
+6,R26,B1,mid,high,non_col,high,sophistication; accuracy
+6,R37,B1,mid,high,non_col,high,sophistication; FS; accuracy; word_choice
+6,R38,B1,mid,high,non_col,high,accuracy
+7,R9,B1,high,high,col,low,word_choice; task_adequacy; diversity; FS; collocation
+7,R29,B1,high,high,col,low,diversity; task_adequacy
+7,R35,B1,high,high,col,low,accuracy
+8,R10,B1,high,high,col,high,sophistication; task_adequacy
+8,R13,B1,high,high,col,high,accuracy; collocation; FS
+8,R24,B1,high,high,col,high,collocation; FS
+8,R44,B1,high,high,col,high,sophistication; accuracy; register
+9,R3,B1,high,high,non_col,low,task_adequacy; accuracy
+9,R16,B1,high,high,non_col,low,sophistication; accuracy
+9,R23,B1,high,high,non_col,low,task_adequacy
+9,R36,B1,high,high,non_col,low,diversity; accuracy; collocation_accuracy
+9,R48,B1,high,high,non_col,low,spelling; word_formation; error_severity
+10,R12,B1,high,high,non_col,high,sophistication; fluency
+10,R14,B1,high,high,non_col,high,diversity; sophistication; accuracy; spelling; error_severity
+10,R20,B1,high,high,non_col,high,diversity; accuracy; task_adequacy
+10,R42,B1,high,high,non_col,high,sophistication
+11,R5,B2,low,low,mix,low,sophistication; accuracy; error_severity; word_formation
+11,R40,B2,low,low,mix,low,diversity; sophistication; collocation
+12,R3,B2,low,low,mix,high,diversity
+12,R14,B2,low,low,mix,high,diversity; sophistication; style; collocation
+12,R30,B2,low,low,mix,high,FS; collocation
+12,R39,B2,low,low,mix,high,diversity; accuracy; sophistication
+13,R4,B2,mid,high,col,low,diversity; sophistication; accuracy(word_choice)
+13,R18,B2,mid,high,col,low,sophistication; accuracy
+13,R22,B2,mid,high,col,low,word_formation; error_severity; appropriacy; accuracy; sophistication
+13,R36,B2,mid,high,col,low,register; style; accuracy(word_choice); preposition; linking_words; collocation
+14,R6,B2,mid,high,col,high,sophistication; FS; appropriacy
+14,R15,B2,mid,high,col,high,style; word_formation; appropriacy; diversity
+14,R23,B2,mid,high,col,high,diversity
+14,R35,B2,mid,high,col,high,FS; collocation; diversity
+15,R1,B2,mid,high,non_col,low,sophistication; accuracy
+15,R26,B2,mid,high,non_col,low,sophistication; accuracy
+15,R31,B2,mid,high,non_col,low,collocation; accuracy
+15,R42,B2,mid,high,non_col,low,sophistication; accuracy
+16,R2,B2,mid,high,non_col,high,diversity; sophistication; accuracy
+16,R17,B2,mid,high,non_col,high,sophistication; collocation
+16,R29,B2,mid,high,non_col,high,diversity; appropriacy; collocation
+16,R46,B2,mid,high,non_col,high,sophistication; appropriacy
+17,R10,B2,high,high,col,low,appropriacy; sophistication; collocation; tone
+17,R16,B2,high,high,col,low,sophistication; accuracy
+17,R19,B2,high,high,col,low,FS; collocation
+17,R44,B2,high,high,col,low,diversity; appropriacy; style
+17,R47,B2,high,high,col,low,accuracy
+17,R48,B2,high,high,col,low,diversity; sophistication; accuracy
+18,R7,B2,high,high,col,high,FS; collocation; sophistication
+18,R21,B2,high,high,col,high,FS; collocation
+18,R32,B2,high,high,col,high,
+18,R43,B2,high,high,col,high,diversity; appropriacy
+19,R8,B2,high,high,non_col,low,diversity; appropriacy; sophistication; collocation; accuracy(word_choice)
+19,R13,B2,high,high,non_col,low,appropriacy; collocation; diversity
+19,R27,B2,high,high,non_col,low,spelling; accuracy; word_formation; accuracy(collocation); error_severity
+19,R37,B2,high,high,non_col,low,collocation; FS; accuracy; sophistication
+20,R11,B2,high,high,non_col,high,preposition; sophistication; FS
+20,R33,B2,high,high,non_col,high,sophistication; appropriacy; spelling; error_severity
+20,R34,B2,high,high,non_col,high,
+20,R45,B2,high,high,non_col,high,sophistication; FS; accuracy
+21,R7,C1,low,low,mix,low,collocation; sophistication; style
+21,R17,C1,low,low,mix,low,noun_phrase; collocation; sophistication
+21,R23,C1,low,low,mix,low,diversity
+21,R30,C1,low,low,mix,low,collocation; sophistication; accuracy
+22,R8,C1,low,low,mix,high,
+22,R15,C1,low,low,mix,high,accuracy(collocation)
+22,R26,C1,low,low,mix,high,accuracy
+22,R34,C1,low,low,mix,high,FS
+23,R1,C1,mid,high,col,low,diversity; appropriacy; sophistication; error_severity
+23,R14,C1,mid,high,col,low,appropriacy; collocation; accuracy; FS
+23,R29,C1,mid,high,col,low,style; collocation; accuracy; fluency
+23,R42,C1,mid,high,col,low,accuracy; collocation; FS
+24,R9,C1,mid,high,col,high,sophistication; collocation
+24,R21,C1,mid,high,col,high,FS; appropriacy; collocation
+24,R36,C1,mid,high,col,high,diversity
+24,R46,C1,mid,high,col,high,diversity; appropriacy; spelling; error_severity
+25,R10,C1,mid,high,non_col,low,sophistication; collocation; spelling; diversity
+25,R19,C1,mid,high,non_col,low,
+25,R33,C1,mid,high,non_col,low,
+25,R39,C1,mid,high,non_col,low,diversity; sophistication; FS; collocation
+26,R2,C1,mid,high,non_col,high,diversity; sophistication; FS; collocation; accuracy(word_choice)
+26,R13,C1,mid,high,non_col,high,collocation
+26,R37,C1,mid,high,non_col,high,diversity; collocation; preposition
+26,R43,C1,mid,high,non_col,high,sophistication; accuracy; error_severity
+27,R5,C1,high,high,col,low,appropriacy; sophistication; FS; accuracy; diversity
+27,R16,C1,high,high,col,low,diversity; appropriacy
+27,R24,C1,high,high,col,low,
+27,R48,C1,high,high,col,low,sophistication; accuracy
+28,R11,C1,high,high,col,high,diversity; collocation_accuracy
+28,R12,C1,high,high,col,high,appropriacy; accuracy
+28,R22,C1,high,high,col,high,diversity; appropriacy
+28,R45,C1,high,high,col,high,sophistication; appropriacy
+29,R4,C1,high,high,non_col,low,sophistication; appropriacy
+29,R18,C1,high,high,non_col,low,appropriacy
+29,R32,C1,high,high,non_col,low,
+29,R35,C1,high,high,non_col,low,diversity; FS; collocation
+29,R38,C1,high,high,non_col,low,
+30,R6,C1,high,high,non_col,high,diversity; appropriacy; collocation; spelling; collocation_accuracy
+30,R27,C1,high,high,non_col,high,diversity; sophistication
+30,R31,C1,high,high,non_col,high,sophistication; collocation
+30,R40,C1,high,high,non_col,high,diversity; appropriacy; sophistication
